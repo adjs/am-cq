@@ -20,5 +20,12 @@ Para simulação de algoritmos quânticos será utilizado o [qiskit](https://qis
 ## Semana 1
 9:00 as 11:00 - 04/10/2019 - Sala E403/404
 
-- Fawaz, Abdulah, et al. "[Training and Meta-Training Binary Neural Networks with Quantum Computing.](http://delivery.acm.org/10.1145/3340000/3330953/p1674-fawaz.pdf?ip=150.161.2.202&id=3330953&acc=OPENTOC&key=344E943C9DC262BB%2ECE287F0A0786CB60%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&__acm__=1569499170_a1ae74a4aa5ab480f436c17769db026f)" Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. ACM, 2019.
+- Fawaz, Abdulah, et al. "[Training and Meta-Training Binary Neural Networks with Quantum Computing.](http://delivery.acm.org/10.1145/3340000/3330953/p1674-fawaz.pdf?ip=150.161.2.202&id=3330953&acc=OPENTOC&key=344E943C9DC262BB%2ECE287F0A0786CB60%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&__acm__=1570126813_0552110ceb9a309b5ef40aa20d784ec6)" Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. ACM, 2019.
 - Topol, Eric J. "[High-performance medicine: the convergence of human and artificial intelligence.](https://www.nature.com/articles/s41591-018-0300-7)" Nature medicine 25.1 (2019): 44.
+- [opcional] [Otimização baseada no gradiente](semana01/otimizacao_gradiente.ipynb)
+## Semana 2
+9:00 as 11:00 - 18/10/2019 - Sala
+
+- 5. Grant, E., Benedetti, M., Cao, S., Hallam, A., Lockhart, J., Stojevic, V., ... & Severini, S. (2018). Hierarchical quantum classifiers. [npj Quantum Information, 4(1), 65](https://www.nature.com/articles/s41534-018-0116-9).
+- Tutorial
+  - https://youtu.be/KNAWp2S3w94
