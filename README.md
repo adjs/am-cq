@@ -21,6 +21,10 @@ Para simulação de algoritmos quânticos será utilizado o [qiskit](https://qis
 9:00 as 11:00 - 04/10/2019 - Sala E403/404
 
 - Fawaz, Abdulah, et al. "[Training and Meta-Training Binary Neural Networks with Quantum Computing.](https://www.kdd.org/kdd2019/accepted-papers/view/training-and-meta-training-binary-neural-networks-with-quantum-computing)" Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. ACM, 2019.
+  - Diante da dificuldade em encontrar um conjunto adequado de pesos para redes neurais, o artigo propõe o uso da Computação Quântica (CQ) para representar todos os possíveis parâmetros e hiper-parâmetros de Redes Neurais Binárias (RNB), realizando também o treinamento dessas redes simultaneamente à escolha dos parâmetros
+  - A prova de conceito usada no artigo faz uso de uma técnica da CQ conhecida como "amplificação de amplitude" para buscar, dentre todos os conjuntos possíveis de pesos, aquele que mais aumente a acurácia. A aplicabilidade desse método às conectividades e pesos da rede é usada para treinar RNBs
+  - Ainda, os autores propõem uma adaptação ao método para permitir representar o cenário de meta-perda de várias arquiteturas de redes neurais simultaneamente, permitindo, assim, treinar e projetar, simultaneamente, uma RNB
+  - A principal limitação pontuada pelos autores diz respeito à limitação do hardware quântico atual (quantidade de qubits disponíveis e restrição acerca da quantidade de portas lógicas que podem ser aplicadas). Além disso, questões como *overfitting* e a aceitação de pesos reais também são pontuadas
 - Topol, Eric J. "[High-performance medicine: the convergence of human and artificial intelligence.](https://www.nature.com/articles/s41591-018-0300-7)" Nature medicine 25.1 (2019): 44.
   - O artigo analisa recentes avanços na utilização de IA (especialmente *deep learning*/CNN) em vários contextos e áreas da medicina, sendo usada por clínicos, sistemas de saúde e por pacientes.
   - Uma questão importante em uma área crítica como a de saúde, é a explicabilidade do modelo, em que é de extrema ajuda quando o algoritmo pode evidenciar (em uma imagem, por exemplo), como chegou a uma decisão. Apesar de ser conhecida como "black box", alguns estudos fazem essa abordagem, usando por exemplo *heatmaps* e gerando entradas que maximizam um valor de saída, para identificar o que é mais decisório para o algoritmo.
@@ -33,4 +37,5 @@ Para simulação de algoritmos quânticos será utilizado o [qiskit](https://qis
 
 - Grant, E., Benedetti, M., Cao, S., Hallam, A., Lockhart, J., Stojevic, V., ... & Severini, S. (2018). Hierarchical quantum classifiers. [npj Quantum Information, 4(1), 65](https://www.nature.com/articles/s41534-018-0116-9).
 - A definir
+- [tutorial] Qiskit
 - [opcional] Multilayer perceptron
