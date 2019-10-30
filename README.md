@@ -40,7 +40,7 @@ Para simulação de algoritmos quânticos será utilizado o [qiskit](https://qis
 - [tutorial] Qiskit
 - [opcional] Multilayer perceptron
 
-## Semana 2
+## Semana 3
 9:00 as 11:00 - 01/11/2019
 
 - Schuld, Maria, and Francesco Petruccione. "Quantum ensembles of quantum classifiers." Scientific reports 8.1 (2018): 2772.
