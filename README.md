@@ -49,5 +49,5 @@ Para simulação de algoritmos quânticos será utilizado o [qiskit](https://qis
 ## Semana 4
 9:00 as 11:00 - 21/02/2020 - Skype
 
-- Möttönen, Mikko, et al. "Transformation of quantum states using uniformly controlled rotations." Quantum Information & Computation 5.6 (2005): 467-473.
+- Möttönen, Mikko, et al. "Transformation of quantum states using uniformly controlled rotations." Quantum Information & Computation 5.6 (2005): 467-473. Function [mottonen_quantum_circuit](https://github.com/qclib/qclib/blob/master/qclib/encoding.py)
 
