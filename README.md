@@ -51,3 +51,8 @@ Para simulação de algoritmos quânticos será utilizado o [qiskit](https://qis
 
 - Möttönen, Mikko, et al. "Transformation of quantum states using uniformly controlled rotations." Quantum Information & Computation 5.6 (2005): 467-473. Function [mottonen_quantum_circuit](https://github.com/qclib/qclib/blob/master/qclib/encoding.py)
 
+## Semana 5
+10:00 as 12:00 - 26/03/2020 
+
+- Shende, Vivek V., Stephen S. Bullock, and Igor L. Markov. "Synthesis of quantum-logic circuits." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 25.6 (2006): 1000-1010.
+
