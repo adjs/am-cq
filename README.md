@@ -47,12 +47,16 @@ Para simulação de algoritmos quânticos será utilizado o [qiskit](https://qis
 - Schuld, Maria, and Francesco Petruccione. "Quantum ensembles of quantum classifiers." Scientific reports 8.1 (2018): 2772.
 
 ## Semana 4
-9:00 as 11:00 - 21/02/2020 - Skype
+9:00 as 11:00 - 21/02/2020 - vídeo conferência
 
 - Möttönen, Mikko, et al. "Transformation of quantum states using uniformly controlled rotations." Quantum Information & Computation 5.6 (2005): 467-473. Function [mottonen_quantum_circuit](https://github.com/qclib/qclib/blob/master/qclib/encoding.py)
 
 ## Semana 5
-10:00 as 12:00 - 26/03/2020 
+10:00 as 12:00 - 26/03/2020 - vídeo conferência
 
 - Shende, Vivek V., Stephen S. Bullock, and Igor L. Markov. "Synthesis of quantum-logic circuits." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 25.6 (2006): 1000-1010.
 
+## Semana 6
+08 às 10h - 31/03 - vídeo conferência
+
+- Park, Daniel K., Francesco Petruccione, and June-Koo Kevin Rhee. "Circuit-Based Quantum Random Access Memory for Classical Data." Scientific reports 9.1 (2019): 1-8.
